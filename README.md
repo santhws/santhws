@@ -1,8 +1,10 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi internet user, I'm Santiago! 
 ###
-       🎒 I am currently a college student (freshman) majoring in Systems Development Analysis.
-       🛠️ I am looking to collaborate on Machine Learning Projects, as well as any other projects.
-       💬 I have skills with images and videos, content production, and perhaps 3D arts.
+       🎒 ADS student, always programming some crazy ideas.
+       🛠️ I'm looking for machine learning projects and open to collaborating on any cool ideas that come my way.
+       💬 I'm good at visual arts and design — I like bringing ideas to life.
+       ☕ Addicted to turning coffee and creativity into cool projects.
+       
 
 **My Projects and Participations**
 
