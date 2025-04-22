@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Linkedin-%201?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" style="margin-bottom: 10px;">
 </a><br>
 
-<a href="https://github.com/seu-usuario">
+<a href="https://github.com/santhws">
   <img src="https://img.shields.io/badge/GitHub-%201?style=for-the-badge&logo=github&logoColor=white&color=333333" style="margin-bottom: 10px;">
 </a><br>
 
@@ -49,6 +49,7 @@
 </a>
 
 </div>
+
 
 <p>
   Passionate about <b>programming</b>, likes to create things and always learn. <b>Scroll down!</b>
