@@ -24,24 +24,24 @@
 
 **Front-End**
 
-![Static Badge](https://img.shields.io/badge/html5%20-%201?style=for-the-badge&logo=html5&labelColor=%23000000&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/html5%20-%201?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3%20-%202?style=for-the-badge&logo=css3&labelColor=%23000000&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/javascript%20-%202?style=for-the-badge&logo=javascript&labelColor=%23000000&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/javascript%20-%201?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)
 
 **Back-End**
 
 ![Static Badge](https://img.shields.io/badge/sqlite%20-%204?style=for-the-badge&logo=sqlite&labelColor=%23000000&color=%23003B57)
-![Static Badge](https://img.shields.io/badge/postman%20-%202?style=for-the-badge&logo=postman&labelColor=%23000000&color=%23FF6C37)
-![Static Badge](https://img.shields.io/badge/python%20-%202?style=for-the-badge&logo=python&labelColor=%23000000&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/postman%20-%201?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=%23FF6C37)
+![Static Badge](https://img.shields.io/badge/python%20-%201?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=%233776AB)
 
 
 **Cloud & Infrastructure**
 
-![Static Badge](https://img.shields.io/badge/googlecloud%20-%202?style=for-the-badge&logo=googlecloud&labelColor=%23000000&color=%234285F4)
+![Static Badge](https://img.shields.io/badge/googlecloud%20-%201?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black&color=%234285F4)
 
 **UX/UI Design**
 
-![Static Badge](https://img.shields.io/badge/figma%20-%202?style=for-the-badge&logo=figma&labelColor=%23000000&color=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/figma%20-%201?style=for-the-badge&logo=figma&logoColor=white&labelColor=black&color=%23F24E1E)
 
 </p>
 
