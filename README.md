@@ -13,7 +13,7 @@
 
 ☍ I am currently learning new technologies and improving my programming logic.</br>
 ☍ Interface and Visual Identity Designer for the <a href="https://allappsunited.com/">AllAppsUnited</a> website, using <a href="https://www.figma.com/design/gaPiCdqe1b1pcG6ak4i6jT/-2-Weeks--Site-Dn.?m=auto&t=gGZGM7xYBFpYHrqI-1">Figma</a>. </br>
-☍ <a href="https://github.com/dKally/shopping-list">Tested List App</a> Designer Illustration, illustration made in <a href="https://www.figma.com/design/DcwV5rthnzGTV4CdlQa2CT/%5BAPP%5D-Lista-de-Compras?m=auto&t=a2IuFqfvaQDNdBhL-6">Figma</a>
+☍ <a href="https://youtube.com/shorts/SfluVD4CfMY">Shopping List Test App</a> Designer Illustration, illustration made in <a href="https://www.figma.com/design/DcwV5rthnzGTV4CdlQa2CT/%5BAPP%5D-Lista-de-Compras?m=auto&t=a2IuFqfvaQDNdBhL-6">Figma</a>
 
 </p> 
 
