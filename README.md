@@ -22,17 +22,17 @@
 
 <p align="left">
 
-### **𝖥𝗋𝗈𝗇𝗍-𝖤𝗇𝖽**
+**Front-End**
 
 ![Static Badge](https://img.shields.io/badge/html5%20-%201?style=for-the-badge&logo=html5&labelColor=%23000000&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3%20-%202?style=for-the-badge&logo=css3&labelColor=%23000000&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/javascript%20-%202?style=for-the-badge&logo=javascript&labelColor=%23000000&color=%23F7DF1E)
 
-### **𝖡𝖺𝖼𝗄-𝖤𝗇𝖽**
+**Back-End**
 
 ![Static Badge](https://img.shields.io/badge/sqlite%20-%204?style=for-the-badge&logo=sqlite&labelColor=%23000000&color=%23003B57)
 
-### **𝖢𝗅𝗈𝗎𝖽 & 𝖨𝗇𝖿𝗋𝖺𝗌𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾**
+**Cloud & Infrastructure**
 
 ![Static Badge](https://img.shields.io/badge/googlecloud%20-%202?style=for-the-badge&logo=googlecloud&labelColor=%23000000&color=%234285F4)
 
