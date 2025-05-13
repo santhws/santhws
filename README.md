@@ -30,14 +30,7 @@
 
 **Back-End**
 
-![Static Badge](https://img.shields.io/badge/sqlite%20-%204?style=for-the-badge&logo=sqlite&labelColor=%23000000&color=%23003B57)
-![Static Badge](https://img.shields.io/badge/postman%20-%201?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/python%20-%201?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=%233776AB)
-
-
-**Cloud & Infrastructure**
-
-![Static Badge](https://img.shields.io/badge/googlecloud%20-%201?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black&color=%234285F4)
 
 **UX/UI Design**
 
