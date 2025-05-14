@@ -31,6 +31,7 @@
 **Back-End**
 
 ![Static Badge](https://img.shields.io/badge/python%20-%201?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/flask%20-%201?style=for-the-badge&logo=flask&labelColor=%23000000&color=gray)
 
 **UX/UI Design**
 
