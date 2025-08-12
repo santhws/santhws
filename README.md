@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> 𝗛𝗶 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝘂𝘀𝗲𝗿, 𝗜❜𝗺 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼❗ 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> 𝗛𝗶 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝘂𝘀𝗲𝗿, 𝗜❜𝗺 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 ! 
 
 ###
        🎒 ADS student, always programming some crazy ideas.
@@ -22,24 +22,24 @@
 
 <p align="left">
 
-**Linguagens de Programação 💻** 
+**Programming Languages 💻** 
 
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20default?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Python%20-%20default?style=flat&logo=python&logoColor=%233776AB&labelColor=%23000000&color=%233776AB)
 
-**Banco de Dados 🗄️**
+**Database 🗄️**
 
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20default?style=flat&logo=mongodb&labelColor=%23000000&color=%2347A248)
 ![Static Badge](https://img.shields.io/badge/SQLite%20-%20default?style=flat&logo=sqlite&logoColor=%23258AAF&labelColor=%23000000&color=%23258AAF)
 
-**Ferramentas e Plataformas 📚**
+**Tools and Platforms 📚**
 
 ![Static Badge](https://img.shields.io/badge/Figma%20-%20default?style=flat&logo=figma&logoColor=%23F24E1E&labelColor=%23000000&color=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/Postman%20-%20default?style=flat&logo=postman&logoColor=%23FF6C37&labelColor=%23000000&color=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/Git%20-%20default?style=flat&logo=git&logoColor=%23F05032&labelColor=%23000000&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/GitHub-%20default?style=flat&logo=github&logoColor=%239E95B7&labelColor=%23000000&color=%239E95B7)
 
-**Frameworks e Bibliotecas 🛠️**
+**Frameworks and Libraries 🛠️**
 
 ![Static Badge](https://img.shields.io/badge/Mongoose%20-%20default?style=flat&logo=mongoose&logoColor=%23880000&labelColor=%23000000&color=%23880000)
 ![Static Badge](https://img.shields.io/badge/Flask%20-%20default?style=flat&logo=flask&logoColor=%233BABC3&labelColor=%23000000&color=%233BABC3)
