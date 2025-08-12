@@ -48,7 +48,7 @@
 </p>
 
 
-## 👁️‍🗨️ Contact
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm41NDcwN2t2bnJyMHVtOTYwYXJ5ZWxkd29uZWxqdjZoaGpkMmZsbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gHQiRVOSnGXEY2Ntqv/giphy.gif" width="20"/> 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
 <img align="left" src="https://i.pinimg.com/originals/35/44/33/354433250e9f08ac409d7639c33814af.gif" width="140" style="margin-right: 20px;">
 
