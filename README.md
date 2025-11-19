@@ -26,11 +26,13 @@
 
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20default?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Python%20-%20default?style=flat&logo=python&logoColor=%233776AB&labelColor=%23000000&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/TypeScript%20-%201?style=flat&logo=typescript&logoColor=%233178C6&labelColor=000000&color=%233178C6)
 
 **Database 🗄️**
 
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20default?style=flat&logo=mongodb&labelColor=%23000000&color=%2347A248)
 ![Static Badge](https://img.shields.io/badge/SQLite%20-%20default?style=flat&logo=sqlite&logoColor=%23258AAF&labelColor=%23000000&color=%23258AAF)
+![Static Badge](https://img.shields.io/badge/MySQL%20-%201?style=flat&logo=mysql&logoColor=%234479A1&labelColor=000000&color=%234479A1)
 
 **Tools and Platforms 📚**
 
@@ -44,6 +46,8 @@
 ![Static Badge](https://img.shields.io/badge/Mongoose%20-%20default?style=flat&logo=mongoose&logoColor=%23880000&labelColor=%23000000&color=%23880000)
 ![Static Badge](https://img.shields.io/badge/Flask%20-%20default?style=flat&logo=flask&logoColor=%233BABC3&labelColor=%23000000&color=%233BABC3)
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20default?style=flat&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23000000&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/React%20-%201?style=flat&logo=react&logoColor=%2361DAFB&labelColor=000000&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Axios%20-%201?style=flat&logo=axios&logoColor=%235A29E4&labelColor=000000&color=%235A29E4)
 
 </p>
 
