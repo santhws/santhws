@@ -75,5 +75,6 @@
 
 <p>
   Passionate about <b>programming</b>, likes to create things and always learn. <b>Scroll down!</b>
-</p>
+</p><br>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/69400f687551b5d409241b67?variant=dark)](https://roadmap.sh)
